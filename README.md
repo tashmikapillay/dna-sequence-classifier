@@ -16,7 +16,7 @@ The dataset file `dna_dataset_refseq_L.csv` must be available before running.
 
 ## Running on Google Colab
 
-1. Open [Google Colab](https://colab.research.google.com) and upload `703DNA_Project_Final.ipynb`, or open it directly from your Google Drive.
+1. Open [Google Colab](https://colab.research.google.com) and upload `DNA Sequence Classification.ipynb`, or open it directly from your Google Drive.
 
 2. Upload `dna_dataset_refseq_L.csv` to the root of your Google Drive (My Drive), not inside any subfolder.
 
